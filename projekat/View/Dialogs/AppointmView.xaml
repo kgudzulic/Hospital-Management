@@ -1,0 +1,78 @@
+﻿<Window x:Class="projekat.View.Dialogs.AppointmView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:projekat.View.Dialogs"
+        mc:Ignorable="d"
+        Title="AppointmView" Height="796.5" Width="1044.5">
+    <Grid Width="1024" Height="768" Loaded="Grid_Loaded">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF12AEE2" Offset="0"/>
+                <GradientStop Color="#FF50E6AF" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <DataGrid x:Name="DataGridXAML" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="492" Margin="30,98,0,0" VerticalAlignment="Top" Width="962" SelectionChanged="DataGridXAML_SelectionChanged" HorizontalScrollBarVisibility="Disabled">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FFEAE8E8"/>
+                    <Setter Property="FontWeight" Value="18"/>
+                    <Setter Property="FontWeight" Value="Regular"/>
+                    <Setter Property="BorderThickness" Value="0, 0, 1, 2"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                </Style>
+                <Style TargetType="DataGridCell">
+                    <Setter Property="TextBlock.TextAlignment" Value="Center" />
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="25"/>
+                <DataGridTextColumn Header="Start" Binding="{Binding StartAppointment, StringFormat=dd/MM/yyyy hh:mm tt}"  Width="125"/>
+                <DataGridTextColumn Header="End" Binding="{Binding EndAppointment, StringFormat=dd/MM/yyyy hh:mm tt}" Width="125"/>
+                <DataGridTextColumn Header="Doctor's Name" Binding="{Binding DoctorName}" Width="120"/>
+                <DataGridTextColumn Header="Doctor's Surname" Binding="{Binding DoctorSurname}" Width="120"/>
+                <DataGridTextColumn Header="Patient's Username" Binding="{Binding PatientUsername}" Width="120" />
+                <DataGridTextColumn Header="Patient's Name" Binding="{Binding PatientName}" Width="120" />
+                <DataGridTextColumn Header="Patient's Surname" Binding="{Binding PatientSurname}" Width="120" />
+                <DataGridTextColumn Header="Room name" Binding="{Binding RoomName}" Width="80"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Name="addBtn"  Content="Add new Appointment" BorderThickness="0" HorizontalAlignment="Left" Margin="30,645,0,0" VerticalAlignment="Top" Width="270" Height="60" FontSize="18" Background="#FFEAE8E8" Click="addBtn_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button Name="editBtn" Content="Edit Appointment" BorderThickness="0" HorizontalAlignment="Left" Margin="377,645,0,0" VerticalAlignment="Top" Width="270" Height="60" FontSize="18" Background="#FFEAE8E8" Click="editBtn_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button Name="removeBtn"  Content="Remove Appointment" BorderThickness="0" HorizontalAlignment="Left" Margin="722,645,0,0" VerticalAlignment="Top" Width="270" Height="60" FontSize="18" Background="#FFEAE8E8" Click="removeBtn_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Menu HorizontalAlignment="Left" Height="45" VerticalAlignment="Top" Width="1014">
+            <Menu.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <DockPanel HorizontalAlignment="Stretch"/>
+                </ItemsPanelTemplate>
+            </Menu.ItemsPanel>
+            <MenuItem Header="Profile" Background="White" Height="45" Click="MenuItem_Click"/>
+            <MenuItem Header="Appointments" Background="White" Height="45" VerticalAlignment="Top" Click="MenuItem_Click_1" IsEnabled="False"/>
+            <MenuItem Header="Request a time off" Background="White" Height="45" Click="MenuItem_Click_2"/>
+            <MenuItem Header="Patient's info" Background="White" Height="45" Click="MenuItem_Click_3"/>
+            <MenuItem Header="Approve Medications" Background="White" Height="45" Click="MenuItem_Click_4"/>
+            <MenuItem Header="Anamnesis" Background="White" Height="45" Click="MenuItem_Click_5"/>
+            <MenuItem Header="Log out" Background="White" Height="45" Margin="0" HorizontalAlignment="Right" Click="MenuItem_Click_6"/>
+        </Menu>
+    </Grid>
+</Window>

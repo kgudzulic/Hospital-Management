@@ -1,0 +1,7 @@
+﻿1;jankoPeric645;password123;Janko;Peric;Bulevar Oslobodjenja 30;pericj@gmail.com;M;12/3/2000 12:00:00 AM
+2;todorDjukanovic236;password123;Todor;Djukanovic;Petra Drapsina 9;todor.djukic98@gmail.com;M;5/16/1998 12:00:00 AM
+3;anastasijaMilic935;passowod123;Anastasija;Milic;marsala Tita 138;anchi99@gmail.com;F;3/2/1999 12:00:00 AM
+4;sladjanaBiljanovic154;password123;Sladjana;Biljanovic;Kosovska 3;sladjaB@gmail.com;F;4/9/1969 12:00:00 AM
+5;danicaStojkovic056;password123;Danica;Stojkovic;Bulevar Despota Stefana 11/3;d74.stojkovic@yahoo.com;F;9/1/1974 12:00:00 AM
+6;vasoMatovic784;password123;Vaso;Matovic;Jug Bogdanova 63;vaso.matovic@gmail.com;M;6/26/2002 12:00:00 AM
+7;andjelaPejin021;password123;Andjela;Pejin;Toze Markovica 78;pejinandjela@gmail.com;F;10/11/2000 12:00:00 AM

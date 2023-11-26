@@ -1,0 +1,320 @@
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\projekat.csproj.AssemblyReference.cache
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\projekat.csproj.SuggestedBindingRedirects.cache
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\View\MainWindow.g.cs
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\App.g.cs
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\projekat_MarkupCompile.cache
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\projekat_MarkupCompile.lref
+C:\Users\joldi\Desktop\projekat\projekat\bin\Debug\projekat.exe.config
+C:\Users\joldi\Desktop\projekat\projekat\bin\Debug\projekat.exe
+C:\Users\joldi\Desktop\projekat\projekat\bin\Debug\projekat.pdb
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\View\MainWindow.baml
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\projekat.g.resources
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\projekat.Properties.Resources.resources
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\projekat.csproj.GenerateResource.cache
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\projekat.csproj.CoreCompileInputs.cache
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\projekat.exe
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\projekat.pdb
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\View\Components\BindablePasswordBox.g.cs
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\View\Dialogs\LoginDialog.g.cs
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\View\Components\BindablePasswordBox.baml
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\View\Dialogs\LoginDialog.baml
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\View\Dialogs\SecretaryLogin.g.cs
+C:\Users\joldi\Desktop\projekat\projekat\obj\Debug\View\Dialogs\SecretaryLogin.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.exe
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.pdb
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\bin\Debug\projekat.exe.config
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\bin\Debug\projekat.exe
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\bin\Debug\projekat.pdb
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.csproj.AssemblyReference.cache
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.csproj.SuggestedBindingRedirects.cache
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Components\BindablePasswordBox.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\LoginDialog.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\SecretaryLogin.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\MainWindow.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\App.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\projekat_MarkupCompile.cache
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\projekat_MarkupCompile.lref
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Components\BindablePasswordBox.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\LoginDialog.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\SecretaryLogin.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\MainWindow.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.g.resources
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.Properties.Resources.resources
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.csproj.GenerateResource.cache
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.csproj.CoreCompileInputs.cache
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Secretary\SecretaryHomepage.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Secretary\SecretaryHomepage.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\AppointmentsView.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\AppointmentsView.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\AppointmentDataView.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\AppointmentDataView.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\bin\Debug\Prism.dll
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\bin\Debug\Prism.pdb
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\bin\Debug\Prism.xml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.csproj.CopyComplete
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\bin\Debug\Caliburn.Micro.Core.dll
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\bin\Debug\Caliburn.Micro.Core.pdb
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\bin\Debug\Caliburn.Micro.Core.xml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\OperationsView.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\OperationsView.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\bin\Debug\projekat.exe.config
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\bin\Debug\projekat.exe
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\bin\Debug\projekat.pdb
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\bin\Debug\Caliburn.Micro.Core.dll
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\bin\Debug\Prism.dll
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\bin\Debug\Caliburn.Micro.Core.pdb
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\bin\Debug\Caliburn.Micro.Core.xml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\bin\Debug\Prism.pdb
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\bin\Debug\Prism.xml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.csproj.AssemblyReference.cache
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.csproj.SuggestedBindingRedirects.cache
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Components\BindablePasswordBox.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\LoginDialog.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\ManagerLogin.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\SecretaryLogin.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\MainWindow.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\AppointmentDataView.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\AppointmentsView.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\OperationsView.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Secretary\SecretaryHomepage.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\App.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\projekat_MarkupCompile.cache
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\projekat_MarkupCompile.lref
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Components\BindablePasswordBox.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\LoginDialog.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\SecretaryLogin.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\MainWindow.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\AppointmentDataView.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\AppointmentsView.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\OperationsView.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Secretary\SecretaryHomepage.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\ManagerLogin.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.g.resources
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.Properties.Resources.resources
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.csproj.GenerateResource.cache
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.csproj.CoreCompileInputs.cache
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.csproj.CopyComplete
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.exe
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\projekat.pdb
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\RenovationDialog.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Manager\ManagerHomepage.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\EquipmentView.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\RoomView.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\RenovationDialog.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Manager\ManagerHomepage.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\EquipmentView.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\RoomView.baml
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\EquipmentRelocation.g.cs
+C:\Users\joldi\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\EquipmentRelocation.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\EquipmentRelocation.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\ManagerLogin.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\RenovationDialog.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Manager\ManagerHomepage.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\EquipmentView.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\RoomView.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\EquipmentRelocation.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\ManagerLogin.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\RenovationDialog.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Manager\ManagerHomepage.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\EquipmentView.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\ModelView\RoomView.baml
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\UpdateAppointment.g.cs
+C:\Users\3500x\Desktop\SIMS\projekat\projekat\obj\Debug\View\Dialogs\UpdateAppointment.baml
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\projekat.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\projekat.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\Components\BindablePasswordBox.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\EquipmentRelocation.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\LoginDialog.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\ManagerLogin.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\RenovationDialog.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\SecretaryLogin.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\UpdateAppointment.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\Manager\ManagerHomepage.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\ModelView\AppointmentDataView.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\ModelView\AppointmentsView.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\ModelView\EquipmentView.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\ModelView\OperationsView.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\ModelView\RoomView.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\Secretary\SecretaryHomepage.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\App.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\projekat_MarkupCompile.cache
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\projekat_MarkupCompile.lref
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\projekat.exe
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\projekat.pdb
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\PatientLogin.g.cs
+C:\Users\User\Desktop\projekat\SIMS\projekat\projekat\obj\Debug\View\Patient\PatientHomepage.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\projekat.csproj.AssemblyReference.cache
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\Components\BindablePasswordBox.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\EquipmentRelocation.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\LoginDialog.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\ManagerLogin.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\RenovationDialog.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\SecretaryLogin.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\UpdateAppointment.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\Dialogs\PatientLogin.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\MainWindow.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\Manager\ManagerHomepage.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\ModelView\AppointmentDataView.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\ModelView\AppointmentsView.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\ModelView\EquipmentView.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\ModelView\OperationsView.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\ModelView\RoomView.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\Patient\PatientHomepage.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\View\Secretary\SecretaryHomepage.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\App.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\projekat_MarkupCompile.cache
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\projekat_MarkupCompile.lref
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\projekat.exe
+C:\Users\Kiketa\OneDrive\Radna površina\projekatSIMS\projekat\SIMS\projekat\projekat\obj\Debug\projekat.pdb
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\projekat.csproj.AssemblyReference.cache
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Components\BindablePasswordBox.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\LoginDialog.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\MainWindow.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\App.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\projekat_MarkupCompile.cache
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\projekat_MarkupCompile.lref
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\projekat.exe
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\projekat.pdb
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\projekat.exe.config
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\projekat.exe
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\projekat.pdb
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\Caliburn.Micro.Core.dll
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\Prism.dll
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\Caliburn.Micro.Core.pdb
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\Caliburn.Micro.Core.xml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\Prism.pdb
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\Prism.xml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Components\BindablePasswordBox.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\LoginDialog.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\MainWindow.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\projekat.g.resources
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\projekat.Properties.Resources.resources
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\projekat.csproj.GenerateResource.cache
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\projekat.csproj.CoreCompileInputs.cache
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\projekat.csproj.CopyComplete
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\DoctorLogin.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\DoctorLogin.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\DoctorHomepage.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\DoctorHomepage.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\PatientsView.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\PatientsView.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\AppointmView.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\AppointmView.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\EditAppointment.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\EditAppointment.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\AllergensList.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\AllergensList.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\AMeds.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\AnamnesisView.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\DoctorsView.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\ReqTimeOff.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\UMeds.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\AMeds.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\AnamnesisView.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\DoctorsView.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\ReqTimeOff.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\UMeds.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\AddAppointment.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\AddAppointment.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\EditDoctor.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\EditDoctor.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\EditAllergen.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\EditAllergen.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\AddAllergen.g.cs
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\obj\Debug\View\Dialogs\AddAllergen.baml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\BaseLib.dll
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\itextsharp.dll
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\PdfSharp.dll
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\SVG.dll
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\Syncfusion.Pdf.Portable.dll
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\itextsharp.xml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\PdfSharp.xml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\Syncfusion.Pdf.Portable.xml
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Kiketa\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\projekat\projekat\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\projekat.exe.config
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\projekat.exe
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\projekat.pdb
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\BaseLib.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\Caliburn.Micro.Core.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\itextsharp.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\PdfSharp.Charting.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\PdfSharp.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\Prism.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\SVG.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\Syncfusion.Compression.Portable.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\Syncfusion.Licensing.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\Syncfusion.Pdf.Portable.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\Caliburn.Micro.Core.pdb
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\Caliburn.Micro.Core.xml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\itextsharp.xml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\PdfSharp.xml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\PdfSharp.Charting.xml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\Prism.pdb
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\Prism.xml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\Syncfusion.Compression.Portable.xml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\Syncfusion.Pdf.Portable.xml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\de\PdfSharp.resources.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\projekat.csproj.AssemblyReference.cache
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Components\BindablePasswordBox.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\AddAllergen.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\AddAppointment.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\AllergensList.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\AMeds.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\AnamnesisView.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\AppointmView.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\DoctorHomepage.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\DoctorsView.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\EditAllergen.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\EditAppointment.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\EditDoctor.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\LoginDialog.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\DoctorLogin.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\PatientsView.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\ReqTimeOff.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\UMeds.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\MainWindow.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\App.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\projekat_MarkupCompile.cache
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\projekat_MarkupCompile.lref
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Components\BindablePasswordBox.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\AddAllergen.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\AddAppointment.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\AllergensList.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\AMeds.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\AnamnesisView.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\AppointmView.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\DoctorHomepage.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\DoctorsView.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\EditAllergen.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\EditAppointment.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\EditDoctor.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\LoginDialog.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\DoctorLogin.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\PatientsView.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\ReqTimeOff.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\Dialogs\UMeds.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\View\MainWindow.baml
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\projekat.g.resources
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\projekat.Properties.Resources.resources
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\projekat.csproj.GenerateResource.cache
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\projekat.csproj.CoreCompileInputs.cache
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\projekat.csproj.CopyComplete
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\projekat.exe
+D:\OneDrive\Radna površina\Folders\FTN 3. godina\HCI\HCI\projekat\projekat\obj\Debug\projekat.pdb

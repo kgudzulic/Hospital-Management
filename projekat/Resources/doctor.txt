@@ -1,0 +1,4 @@
+﻿1;maki88;password123;Marija;Markovic;Karadjordjeva 15;maja.maki@gmail.com;F;10/8/1988 12:00:00 AM;general
+2;braneR;password123;Branko;Ratkovic;Milosa Velikog 112;branko.ratkovic@gmail.com;M;11/6/1972 12:00:00 AM;cardiologist
+3;jelaV91;password123;Jelena;Veljkovic;Zeleznicka bb;jeka.v.1991@gmail.com;F;12/26/1991 12:00:00 AM;gynecologist
+4;savoG02;password123;Savo;Gudzulic;Hajduk Veljkova 18;gudzulics@gmail.com;M;2/4/1992 12:00:00 AM;neurologist

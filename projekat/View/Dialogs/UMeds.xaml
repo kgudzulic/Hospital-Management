@@ -1,0 +1,61 @@
+﻿<Window x:Class="projekat.View.Dialogs.UMeds"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:projekat.View.Dialogs"
+        mc:Ignorable="d"
+        Title="UMeds" Height="768" Width="1024">
+    <Grid Width="1024" Height="768">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF12AEE2" Offset="0"/>
+                <GradientStop Color="#FF50E6AF" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Menu HorizontalAlignment="Left" Height="45" VerticalAlignment="Top" Width="1014">
+            <Menu.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <DockPanel HorizontalAlignment="Stretch"/>
+                </ItemsPanelTemplate>
+            </Menu.ItemsPanel>
+            <MenuItem Header="Profile" Background="White" Height="45" Click="MenuItem_Click_1"/>
+            <MenuItem Header="Appointments" Background="White" Height="45" Click="MenuItem_Click"/>
+            <MenuItem Header="Request a time off" Background="White" Height="45" Click="MenuItem_Click_2"/>
+            <MenuItem Header="Patient's info" Background="White" Height="45" Click="MenuItem_Click_3"/>
+            <MenuItem Header="Approve Medications" Background="White" Height="45" IsEnabled="False"/>
+            <MenuItem Header="Anamnesis" Background="White" Height="45" Click="MenuItem_Click_4"/>
+            <MenuItem Header="Log out" Background="White" Height="45" Margin="0" HorizontalAlignment="Right" Click="MenuItem_Click_5"/>
+        </Menu>
+        <DataGrid x:Name="DataGridXAML" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="552" Margin="112,108,0,0" VerticalAlignment="Top" Width="302" HorizontalScrollBarVisibility="Disabled" SelectionChanged="DataGridXAML_SelectionChanged">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FFEAE8E8"/>
+                    <Setter Property="FontWeight" Value="18"/>
+                    <Setter Property="FontWeight" Value="Regular"/>
+                    <Setter Property="BorderThickness" Value="0, 0, 1, 2"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                </Style>
+                <Style TargetType="{x:Type DataGridCell}">
+                    <Setter Property="TextBlock.TextAlignment" Value="Center" />
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="100"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="200"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Border BorderBrush="Black" BorderThickness="0" Background="White" HorizontalAlignment="Left" Height="497" Margin="520,163,0,0" VerticalAlignment="Top" Width="390" CornerRadius="15"/>
+        <TextBlock x:Name="tbl1" TextAlignment="Justify" HorizontalAlignment="Left" Height="204" Margin="581,313,0,0" FontSize="15" TextWrapping="Wrap" VerticalAlignment="Top" Width="270"/>
+        <Label Content="Ingredients" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="-0.325,0.543" FontSize="40" FontFamily="Calibri" FontWeight="Bold" Margin="617,248,0,0" Height="60" Width="200"/>
+        <Image HorizontalAlignment="Left" Height="110" Margin="660,108,0,0" VerticalAlignment="Top" Width="110" Source="/projekat;component/img/injection.png"/>
+        <Button x:Name="addBtn"  Content="Approve Medication" BorderThickness="0" HorizontalAlignment="Left" Margin="581,545,0,0" VerticalAlignment="Top" Width="270" Height="74" FontSize="18" Background="#FF01A1D6" Foreground="White" Click="addBtn_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Grid>
+</Window>

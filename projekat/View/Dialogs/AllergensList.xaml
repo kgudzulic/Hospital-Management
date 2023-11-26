@@ -1,0 +1,72 @@
+﻿<Window x:Class="projekat.View.Dialogs.AllergensList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:projekat.View.Dialogs"
+        mc:Ignorable="d"
+        Title="AllergensList" Height="768" Width="1024">
+    <Grid Width="1024" Height="768" Loaded="Grid_Loaded">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF12AEE2" Offset="0"/>
+                <GradientStop Color="#FF50E6AF" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border BorderBrush="Black" BorderThickness="0" Background="White" HorizontalAlignment="Left" Height="492" Margin="520,168,0,0" VerticalAlignment="Top" Width="390" CornerRadius="15"/>
+        <DataGrid x:Name="DataGridXAML" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="552" Margin="112,108,0,0" VerticalAlignment="Top" Width="302" SelectionChanged="DataGridXAML_SelectionChanged" HorizontalScrollBarVisibility="Disabled">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FFEAE8E8"/>
+                    <Setter Property="FontWeight" Value="18"/>
+                    <Setter Property="FontWeight" Value="Regular"/>
+                    <Setter Property="BorderThickness" Value="0, 0, 1, 2"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                </Style>
+                <Style TargetType="{x:Type DataGridCell}">
+                    <Setter Property="TextBlock.TextAlignment" Value="Center" />
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="100"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="200"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="addBtn"  Content="Add new Allergen" BorderThickness="0" HorizontalAlignment="Left" Margin="580,274,0,0" VerticalAlignment="Top" Width="270" Height="74" FontSize="18" Background="#FFEAE8E8" Click="addBtn_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="editBtn" Content="Edit Allergen" BorderThickness="0" HorizontalAlignment="Left" Margin="580,389,0,0" VerticalAlignment="Top" Width="270" Height="74" FontSize="18" Background="#FFEAE8E8" Click="editBtn_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="removeBtn"  Content="Remove Allergen" BorderThickness="0" HorizontalAlignment="Left" Margin="580,502,0,0" VerticalAlignment="Top" Width="270" Height="74" FontSize="18" Background="#FFEAE8E8" Click="removeBtn_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Menu HorizontalAlignment="Left" Height="45" VerticalAlignment="Top" Width="1024">
+            <Menu.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <DockPanel HorizontalAlignment="Stretch"/>
+                </ItemsPanelTemplate>
+            </Menu.ItemsPanel>
+            <MenuItem x:Name="profile" Header="Profile" Background="White" Height="45" Click="profile_Click"/>
+            <MenuItem x:Name="appoint"  Header="Appointments" Background="White" Height="45" Click="appoint_Click"/>
+            <MenuItem x:Name="req" Header="Request a time off" Background="White" Height="45" Click="req_Click"/>
+            <MenuItem x:Name="patinfo" Header="Patient's info" Background="White" Height="45" Click="patinfo_Click" />
+            <MenuItem x:Name="appmed" Header="Approve medications" Background="White" Height="45" Click="appmed_Click"/>
+            <MenuItem x:Name="logout" Header="Log out" Background="White" Height="45" Click="Button_Click" Margin="0" HorizontalAlignment="Right"/>
+        </Menu>
+        <Image HorizontalAlignment="Left" Height="108" Margin="668,108,0,0" VerticalAlignment="Top" Width="108" Source="/projekat;component/img/no-gmo.png" RenderTransformOrigin="0.3,0.46"/>
+    </Grid>
+</Window>

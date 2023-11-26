@@ -1,0 +1,10 @@
+﻿1;sala 101;operatingRoom;100;true
+2;ordinacija 102;ordinaryRoom;50;true
+3;soba 103;relaxationRoom;78;true
+4;sala 104;operatingRoom;80;true
+5;soba 105;relaxationRoom;68;true
+6;ordinacija 201;ordinaryRoom;50;true
+7;ordinacija 202;ordinaryRoom;50;true
+8;sala 203;operatingRoom;80;true
+9;soba 204;relaxationRoom;68;true
+10;sala 205;operatingRoom;80;true

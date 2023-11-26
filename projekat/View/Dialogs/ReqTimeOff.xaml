@@ -1,0 +1,44 @@
+﻿<Window x:Class="projekat.View.Dialogs.ReqTimeOff"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:projekat.View.Dialogs"
+        mc:Ignorable="d"
+        Title="ReqTimeOff" Height="768" Width="1024">
+    <Grid Width="1024" Height="768">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF12AEE2" Offset="0"/>
+                <GradientStop Color="#FF50E6AF" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Menu HorizontalAlignment="Left" Height="45" VerticalAlignment="Top" Width="1014">
+            <Menu.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <DockPanel HorizontalAlignment="Stretch"/>
+                </ItemsPanelTemplate>
+            </Menu.ItemsPanel>
+            <MenuItem Header="Profile" Background="White" Height="45" Click="MenuItem_Click"/>
+            <MenuItem Header="Appointments" Background="White" Height="45" Click="MenuItem_Click_1"/>
+            <MenuItem Header="Request a time off" Background="White" Height="45" IsEnabled="False"/>
+            <MenuItem Header="Patient's info" Background="White" Height="45" Click="MenuItem_Click_2"/>
+            <MenuItem Header="Approve Medications" Background="White" Height="45" Click="MenuItem_Click_3"/>
+            <MenuItem Header="Anamnesis" Background="White" Height="45" Click="MenuItem_Click_4"/>
+            <MenuItem Header="Log out" Background="White" Height="45" Margin="0" HorizontalAlignment="Right" Click="MenuItem_Click_5"/>
+        </Menu>
+        <Border BorderBrush="Black" BorderThickness="0" Background="White" HorizontalAlignment="Left" Height="408" Margin="213,176,0,0" VerticalAlignment="Top" Width="583" CornerRadius="15"/>
+        <Label Content="Request a time off" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="-0.325,0.543" FontSize="40" FontFamily="Calibri" FontWeight="Bold" Margin="345,234,0,0" Height="60" Width="315"/>
+        <Label Content="Start:" Margin="305,346,667,370" FontSize="18"/>
+        <Label Content="End:" Margin="311,398,667,324" FontSize="18" RenderTransformOrigin="-0.061,1.444"/>
+        <Button Content="Done" Background="#FF01A1D6" Foreground="White" BorderThickness="0" HorizontalAlignment="Left" Margin="380,472,0,0" VerticalAlignment="Top" Width="250" Height="60" FontSize="20" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <DatePicker Name="dp1" HorizontalAlignment="Left" FontSize="15" VerticalContentAlignment="Center" Margin="357,346,0,0" VerticalAlignment="Top" Height="40" Width="331"/>
+        <DatePicker Name="dp2" HorizontalAlignment="Left" FontSize="15" VerticalContentAlignment="Center" Margin="357,398,0,0" VerticalAlignment="Top" Height="40" Width="331"/>
+    </Grid>
+</Window>
